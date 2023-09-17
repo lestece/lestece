@@ -3,7 +3,8 @@
 
 # 💫 About Me:
 🎓 I've completed the 4 projects of the Full Stack Software Development Diploma with the [Code Institute](https://codeinstitute.net/)
- 🔭 I’m currently consolidating my knowledge by attending a [Web Development Bootcamp on Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)<br><br>🌱 Next step is to learn **React**<br><br>👯 I’m looking to collaborate on **anything that allows me to gain experience and improvement on the Full Stack**<br><br>📫 How to reach me **loiceleste94@gmail.com**
+🔭 I’m currently consolidating my knowledge by attending a [Web Development Bootcamp on Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)<br><br>
+🌱 Next step is to learn **React**<br><br>👯 I’m looking to collaborate on **anything that allows me to gain experience and improvement on the Full Stack**<br><br>📫 How to reach me **loiceleste94@gmail.com**
 
 
 ## 🌐 Socials:
